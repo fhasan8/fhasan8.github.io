@@ -37,15 +37,24 @@ Quality Assurance Engineer
 ## Education
 ### Georgia Institute of Technology, Atlanta, USA
 Masters in Computer Science (MSCS) - Machine Learning
+
 01/2022 – Present*
 
 GPA - 4.0 (so far)
 
+* (Graduating in Dec 2022)
+
 ### Jamia Millia Islamia, New Delhi, India
 Bachelors of Technology (B.Tech) - Computer Science
+
 07/2007 – 06/2011
 
 CGPA - 8.5/10
 
 ## Projects
-1. (Birdclef 2022)[https://fhasan8.github.io/birdclef22/]
+1. [Birdclef 2022 - Identify rare bird calls in soundscape](https://fhasan8.github.io/birdclef22/)
+In this project, audio soundscapes were transformed into Mel-spectrograms and the resulting tensors were used to train a deep convolution neural network using pytorch to classify birds based on audio soundscapes. Further explored transfer learning for training the network with more readily available bird calls. Other techniques like logistic regression, decision trees, SVM were also tried for the audio data classification.
+
+2. [MABe 2022 -Behavioral Representation Learning from Mouse Triplets](https://fhasan8.github.io/mabe22_mt/)
+In this project, video sequences of mouse triplets were fed into a neural network to generate behavioral representation learning with pytorch.
+
